@@ -8,7 +8,7 @@
 * I'm a YouTuber🎥 and love to make vlogs, and some sought of inspirational and educational videos.
 - Feel free to connect with me by clicking on my socials.😇
 
-<img align="right" alt="PNG" src="https://github.com/shivchauhan795/shivchauhan795/blob/main/Untitled%20design.png" width="400" height="400" />
+<img align="right" alt="PNG" src="https://github.com/shivchauhan795/shivchauhan795/blob/main/Untitled%20design.png" width="300" height="300" />
 
 ## 👨‍💻 Languages
 
@@ -29,20 +29,14 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="git" width="50" height="50"/></code> &nbsp;
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="git" width="50" height="50"/></code> &nbsp;
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="git" width="50" height="50"/></code> &nbsp;
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshopcs/photoshopcs-original.svg" alt="git" width="50" height="50"/></code> &nbsp;
 
-<!--
-https://github.com/shivchauhan795/shivchauhan795/blob/main/Untitled%20design.png
-**shivchauhan795/shivchauhan795** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📈 My Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shivchauhan795&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivchauhan795&theme=tokyonight" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ## 🏆 My Trophies
+<a>
+  <img src="https://github-profile-trophy.vercel.app/?username=shivchauhan795&row=1&column=8&theme=radical&margin-w=15" width="100%">
+</a> -->
